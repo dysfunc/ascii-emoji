@@ -11,6 +11,9 @@ Table Flip / Flipping Table
 ┬─┬﻿ ノ( ゜-゜ノ)
 Put the table back
 
+┻━┻ ︵ヽ(`Д´)ﾉ︵﻿ ┻━┻
+Double Flip / Double Angry
+
 ( ﾟ∀ﾟ)ｱﾊﾊ八八ﾉヽﾉヽﾉヽﾉ ＼ / ＼/ ＼
 Super waving
 
