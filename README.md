@@ -8,6 +8,9 @@ Reddit disapproval face
 (╯°□°）╯︵ ┻━┻
 Table Flip / Flipping Table 
 
+┬─┬﻿ ノ( ゜-゜ノ)
+Put the table back
+
 ( ﾟ∀ﾟ)ｱﾊﾊ八八ﾉヽﾉヽﾉヽﾉ ＼ / ＼/ ＼
 Super waving
 
@@ -40,9 +43,6 @@ running
 
 ヽ(´▽`)/
 happy face  
-Ƹ̵̡Ӝ̵̨̄Ʒ
-
-butterfly
 
 ヽ(´ー｀)ノ
 Basking in glory  
