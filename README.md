@@ -94,4 +94,43 @@ staring
 
 ఠ_ఠ
 pretty eyes
+
+ᕕ( ᐛ )ᕗ
+strut
+
+(⊙_◎)
+zoned
+
+ミ●﹏☉ミ
+crazy
+
+༼∵༽ ༼⍨༽ ༼⍢༽ ༼⍤༽
+trolling
+
+ヽ༼ ಠ益ಠ ༽ﾉ
+angry troll
+
+t(-_-t)
+fuck it
+
+(ಥ⌣ಥ)
+sad face
+
+(づ￣ ³￣)づ
+hugger
+
+(づ｡◕‿‿◕｡)づ
+stranger danger
+
+(ノಠ ∩ಠ)ノ彡( \o°o)\
+flip friend
+
+｡ﾟ( ﾟஇ‸இﾟ)ﾟ｡
+cry face
+
+༼ ༎ຶ ෴ ༎ຶ༽
+cry troll
+
+“ヽ(´▽｀)ノ”
+TGIF
 ```
