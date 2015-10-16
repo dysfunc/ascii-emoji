@@ -133,4 +133,22 @@ cry troll
 
 “ヽ(´▽｀)ノ”
 TGIF
+
+┌(ㆆ㉨ㆆ)ʃ
+dancing 
+
+눈_눈
+sleepy
+
+( ఠൠఠ )ﾉ
+angry birds
+
+乁( ◔ ౪◔)「      ┑(￣Д ￣)┍
+no support 
+
+(๑•́ ₃ •̀๑) 
+shy 
+
+⁽⁽ଘ( ˊᵕˋ )ଓ⁾⁾
+fly away
 ```
