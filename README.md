@@ -65,6 +65,12 @@ devious smile
 ಥ_ಥ
 crying face 
 
+ಥ﹏ಥ
+breakdown
+
+٩◔̯◔۶
+disagree
+
 ᕙ(⇀‸↼‶)ᕗ
 flexing 
 
@@ -151,4 +157,10 @@ shy
 
 ⁽⁽ଘ( ˊᵕˋ )ଓ⁾⁾
 fly away
+
+◔_◔
+careless
+
+♥‿♥
+love
 ```
