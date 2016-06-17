@@ -32,6 +32,9 @@ surprised / loudmouthed
 ¯\_(ツ)_/¯
 shrug face  
 
+¯\(°_o)/¯
+meh
+
 (`･ω･´)
 feel perky  
 
@@ -48,10 +51,16 @@ running
 happy face  
 
 ヽ(´ー｀)ノ
-Basking in glory  
+basking in glory  
 
 ᵒᴥᵒ#
-kitty emote 
+kitty emote
+
+V●ᴥ●V
+fido
+
+ฅ^•ﻌ•^ฅ
+meow
 
 （ ^_^）o自自o（^_^ ）
 Cheers  
@@ -74,6 +83,9 @@ disagree
 ᕙ(⇀‸↼‶)ᕗ
 flexing 
 
+ᕦ(ò_óˇ)ᕤ
+do you even lift bro?
+
 ⊂(◉‿◉)つ
 kirby
 
@@ -91,6 +103,12 @@ japanese lion face
 
 ¿ⓧ_ⓧﮌ
 confused  
+
+(⊙.☉)7
+confused scratch
+
+(´･_･`)
+worried
 
 щ（ﾟДﾟщ）
 dear god why  
@@ -163,4 +181,19 @@ careless
 
 ♥‿♥
 love
+
+ԅ(≖‿≖ԅ)
+Touchy Feely
+
+( ˘ ³˘)♥ 
+Kissing
+
+( ˇ෴ˇ )
+shark face / jagged mustache
+
+ヾ(-_- )ゞ
+dance 
+
+ʕ •́؈•̀ ₎
+winnie the pooh
 ```
