@@ -18,7 +18,7 @@ Double Flip / Double Angry
 Super waving
 
 ლ(｀ー´ლ)
-Fistacuffs / angry face 
+Fistacuffs
 
 ʕ•ᴥ•ʔ
 Cute bear 
@@ -196,4 +196,16 @@ dance
 
 ʕ •́؈•̀ ₎
 winnie the pooh
+
+ლ(•́•́ლ)
+boxing / fight
+  
+{•̃_•̃}
+robot
+
+(ᵔᴥᵔ)
+seal
+
+(Ծ‸ Ծ)
+questionable / dislike
 ```
