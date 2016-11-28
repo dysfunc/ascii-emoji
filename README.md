@@ -208,4 +208,12 @@ seal
 
 (Ծ‸ Ծ)
 questionable / dislike
+
+(•̀ᴗ•́)و ̑̑
+Winning!
+
+[¬º-°]¬
+Zombie
+
+
 ```
