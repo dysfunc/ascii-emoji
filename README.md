@@ -113,7 +113,7 @@ worried
 щ（ﾟДﾟщ）
 dear god why  
 
-٩(͡๏̯͡๏)۶
+٩(͡๏_๏)۶
 staring 
 
 ఠ_ఠ
