@@ -217,4 +217,7 @@ Zombie
 
 (☞ﾟヮﾟ)☞
 pointing
+
+''⌐(ಠ۾ಠ)¬'''
+chasing / running away
 ```
