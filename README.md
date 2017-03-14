@@ -11,6 +11,9 @@ Table Flip / Flipping Table
 ┬─┬﻿ ノ( ゜-゜ノ)
 Put the table back
 
+┬─┬⃰͡ (ᵔᵕᵔ͜ )
+Tidy up / dust the table
+
 ┻━┻ ︵ヽ(`Д´)ﾉ︵﻿ ┻━┻
 Double Flip / Double Angry
 
