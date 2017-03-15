@@ -224,3 +224,6 @@ pointing
 ''⌐(ಠ۾ಠ)¬'''
 chasing / running away
 ```
+
+Note:
+The emojis above consist of Unicode characters and not ASCII characters. I found that people often search for ASCII over unicode not understanding the difference so I've kept the repo name intact for SEO reasons. See https://en.wikipedia.org/wiki/ASCII v. https://en.wikipedia.org/wiki/Unicode
