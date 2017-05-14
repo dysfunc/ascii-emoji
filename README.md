@@ -17,9 +17,6 @@ Tidy up / dust the table
 ┻━┻ ︵ヽ(`Д´)ﾉ︵﻿ ┻━┻
 Double Flip / Double Angry
 
-( ﾟ∀ﾟ)ｱﾊﾊ八八ﾉヽﾉヽﾉヽﾉ ＼ / ＼/ ＼
-Super waving
-
 ლ(｀ー´ლ)
 Fistacuffs
 
@@ -223,6 +220,15 @@ pointing
 
 ''⌐(ಠ۾ಠ)¬'''
 chasing / running away
+
+(っ•́｡•́)♪♬
+whistling / music
+
+(҂◡_◡) 
+injured
+
+ƪ(ړײ)‎ƪ​​
+creeper
 ```
 
 Note:
