@@ -18,7 +18,7 @@ Tidy up / dust the table
 Double Flip / Double Angry
 
 ლ(｀ー´ლ)
-Fistacuffs
+Fisticuffs
 
 ʕ•ᴥ•ʔ
 Cute bear 
