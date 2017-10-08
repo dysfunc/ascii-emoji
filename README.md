@@ -238,9 +238,6 @@ flying
 
 ♨_♨
 things that can't be unseen
-
-☼_☼
-summertime/sunshine
 ```
 
 Note:
