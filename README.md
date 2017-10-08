@@ -229,6 +229,18 @@ injured
 
 ƪ(ړײ)‎ƪ​​
 creeper
+
+⥀.⥀
+eye roll
+
+ح˚௰˚づ 
+flying
+
+♨_♨
+things that can't be unseen
+
+☼_☼
+summertime/sunshine
 ```
 
 Note:
