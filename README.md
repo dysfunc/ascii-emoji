@@ -21,10 +21,13 @@ Double Flip / Double Angry
 Fisticuffs
 
 ʕ•ᴥ•ʔ
-Cute bear 
+cute bear 
+
+ʕᵔᴥᵔʔ
+squinting bear
 
 (｡◕‿◕｡)
-Cute face with big eyes 
+cute face with big eyes 
 
 （　ﾟДﾟ）
 surprised / loudmouthed 
@@ -63,7 +66,7 @@ fido
 meow
 
 （ ^_^）o自自o（^_^ ）
-Cheers  
+cheers  
 
 ಠ‿ಠ
 devious smile
@@ -192,7 +195,13 @@ Kissing
 shark face / jagged mustache
 
 ヾ(-_- )ゞ
+emo dance 
+
+♪♪ ヽ(ˇ∀ˇ )ゞ
 dance 
+
+ヾ(´〇`)ﾉ♪♪♪
+opera
 
 ʕ •́؈•̀ ₎
 winnie the pooh
@@ -238,10 +247,29 @@ flying
 
 ♨_♨
 things that can't be unseen
+
+(._.)
+looking down
+
+(⊃｡•́‿•̀｡)⊃
+im a hugger
+
+(っ˘ڡ˘ς)
+yum
+
+( ఠ ͟ʖ ఠ)
+judging
+
+( ͡ಠ ʖ̯ ͡ಠ)
+tired / older
+
+( ಠ ʖ̯ ಠ)
+dislike / depressed
+
 ```
 
 Note:
 The emojis above consist of Unicode characters and not ASCII characters. I found that people often search for ASCII over unicode not understanding the difference so I've kept the repo name intact for SEO reasons. See https://en.wikipedia.org/wiki/ASCII v. https://en.wikipedia.org/wiki/Unicode
 
-## Other cool shit
+## Other cool stuff - AI JS Bots
 A new JS framework for creating your own web AI assistant like Alexa, Google Home or Siri that allows you to create a interactive voice-driven experience. Please check it out - [Demo](https://dysfunc.github.io/eleven/) / [Source](https://github.com/dysfunc/eleven)
