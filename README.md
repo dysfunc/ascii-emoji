@@ -254,6 +254,9 @@ looking down
 (⊃｡•́‿•̀｡)⊃
 im a hugger
 
+(∩｀-´)⊃━☆ﾟ.*･｡ﾟ
+wizard
+
 (っ˘ڡ˘ς)
 yum
 
