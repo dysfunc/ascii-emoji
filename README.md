@@ -269,6 +269,8 @@ tired / older
 ( ಠ ʖ̯ ಠ)
 dislike / depressed
 
+(งツ)ว
+Hitchhiking
 ```
 
 Note:
