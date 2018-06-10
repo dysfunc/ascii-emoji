@@ -277,6 +277,9 @@ dislike / depressed
 
 (งツ)ว
 Hitchhiking
+
+(◠﹏◠)
+Satisfied
 ```
 
 Note:
