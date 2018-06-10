@@ -277,6 +277,12 @@ dislike / depressed
 
 (งツ)ว
 Hitchhiking
+
+(◠﹏◠)
+Satisfied
+
+(ᵟຶ︵ ᵟຶ)
+Sad and crying
 ```
 
 Note:
