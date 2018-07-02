@@ -279,10 +279,13 @@ dislike / depressed
 Hitchhiking
 
 (◠﹏◠)
-Satisfied
+satisfied
 
 (ᵟຶ︵ ᵟຶ)
-Sad and crying
+sad and crying
+
+(っ▀¯▀)つ
+stunna shades
 ```
 
 Note:
