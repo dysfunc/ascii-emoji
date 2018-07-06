@@ -59,7 +59,7 @@ basking in glory
 ᵒᴥᵒ#
 kitty emote
 
-V●ᴥ●V
+V•ᴥ•V
 fido
 
 ฅ^•ﻌ•^ฅ
@@ -116,7 +116,7 @@ worried
 щ（ﾟДﾟщ）
 dear god why  
 
-٩(͡๏_๏)۶
+٩(๏_๏)۶
 staring 
 
 ఠ_ఠ
@@ -286,6 +286,12 @@ sad and crying
 
 (っ▀¯▀)つ
 stunna shades
+
+ʚ(•｀
+chicken
+
+(´ж｀ς)
+barf
 ```
 
 Note:
