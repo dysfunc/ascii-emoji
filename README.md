@@ -292,6 +292,12 @@ chicken
 
 (´ж｀ς)
 barf
+
+(° ͜ʖ͡°)╭∩╮
+fuck off
+
+ʕʘ̅͜ʘ̅ʔ
+smiley toast
 ```
 
 Note:
