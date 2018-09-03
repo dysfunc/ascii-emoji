@@ -1,30 +1,33 @@
 ```
 ʘ‿ʘ
-Innocent face 
+innocent face 
 
 ಠ_ಠ
-Reddit disapproval face 
+reddit disapproval face 
 
 (╯°□°）╯︵ ┻━┻
-Table Flip / Flipping Table 
+table flip / flipping table 
 
 ┬─┬﻿ ノ( ゜-゜ノ)
-Put the table back
+put the table back
 
 ┬─┬⃰͡ (ᵔᵕᵔ͜ )
-Tidy up / dust the table
+tidy up / dust the table
 
 ┻━┻ ︵ヽ(`Д´)ﾉ︵﻿ ┻━┻
-Double Flip / Double Angry
+double Flip / double angry
 
 ლ(｀ー´ლ)
-Fisticuffs
+fisticuffs
 
 ʕ•ᴥ•ʔ
 cute bear 
 
 ʕᵔᴥᵔʔ
 squinting bear
+
+ʕ •`ᴥ•´ʔ
+GTFO Bear
 
 (｡◕‿◕｡)
 cute face with big eyes 
@@ -206,6 +209,9 @@ opera
 ʕ •́؈•̀ ₎
 winnie the pooh
 
+ʕ •́؈•̀)
+winnie the pooh
+
 ლ(•́•́ლ)
 boxing
 
@@ -276,7 +282,7 @@ tired / older
 dislike / depressed
 
 (งツ)ว
-Hitchhiking
+hitchhiking
 
 (◠﹏◠)
 satisfied
@@ -298,6 +304,15 @@ fuck off
 
 ʕʘ̅͜ʘ̅ʔ
 smiley toast
+
+ح(•̀ж•́)ง † 
+exorcism
+
+-`ღ´-
+love
+
+(⩾﹏⩽)
+taking a dump / straining
 ```
 
 Note:
