@@ -313,6 +313,9 @@ love
 
 (⩾﹏⩽)
 taking a dump / straining
+
+ヽ( •_)ᕗ
+dab
 ```
 
 Note:
