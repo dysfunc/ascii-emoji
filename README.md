@@ -316,6 +316,12 @@ taking a dump / straining
 
 ヽ( •_)ᕗ
 dab
+
+~(^-^)~
+Wave Dance
+
+\(ᵔᵕᵔ)/
+Happy Hug
 ```
 
 Note:
