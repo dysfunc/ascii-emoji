@@ -322,6 +322,15 @@ Wave Dance
 
 \(ᵔᵕᵔ)/
 Happy Hug
+
+ᴖ̮ ̮ᴖ
+resting my eyes
+
+ಠಠ
+peepers
+
+{ಠʖಠ}
+judgemental
 ```
 
 Note:
