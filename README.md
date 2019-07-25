@@ -47,6 +47,9 @@ feel perky
 (╬ ಠ益ಠ)
 angry face
 
+ლ(ಠ益ಠლ)
+at what cost
+
 ☜(⌒▽⌒)☞
 excited 
 
