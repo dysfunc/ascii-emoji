@@ -17,9 +17,11 @@ console.log(emoji(8));
 console.log(emoji("squinting-bear"));
 
 /* This will change them */
-emoji(8, "This would be the new face in the array ;P")
-emoji("squinting-bear", "This would be the new face in the object ;)")
+emoji(8, "This would be the new face in the array ;P");
+console.log(emoji(8));
+console.log(emoji("squinting-bear"));
 
-/* These will no longer eturn the same thing :( */
+/* And so will this */
+emoji("squinting-bear", "This would be the new face in the object ;)");
 console.log(emoji(8));
 console.log(emoji("squinting-bear"));
