@@ -83,6 +83,9 @@ devious smile
 ಥ_ಥ
 crying face 
 
+ಥ‿ಥ
+happy crying face
+
 ಥ﹏ಥ
 breakdown
 
