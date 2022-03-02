@@ -6,7 +6,7 @@ The emojis below consist of Unicode characters and not ASCII characters. I found
 innocent face 
 
 ಠ_ಠ
-reddit disapproval face
+reddit disapproval face 
 
 (╯°□°）╯︵ ┻━┻
 table flip / flipping table 
