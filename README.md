@@ -1,9 +1,12 @@
+**Note**
+The emojis below consist of Unicode characters and not ASCII characters. I found that people often search for ASCII over unicode not understanding the difference so I've kept the repo name intact for SEO reasons. See https://en.wikipedia.org/wiki/ASCII v. https://en.wikipedia.org/wiki/Unicode
+
 ```
 ʘ‿ʘ
 innocent face 
 
 ಠ_ಠ
-reddit disapproval face 
+reddit disapproval face
 
 (╯°□°）╯︵ ┻━┻
 table flip / flipping table 
@@ -339,5 +342,3 @@ peepers
 judgemental
 ```
 
-Note:
-The emojis above consist of Unicode characters and not ASCII characters. I found that people often search for ASCII over unicode not understanding the difference so I've kept the repo name intact for SEO reasons. See https://en.wikipedia.org/wiki/ASCII v. https://en.wikipedia.org/wiki/Unicode
