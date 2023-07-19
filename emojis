@@ -1,116 +1,116 @@
 #!/usr/bin/env bash
 
 EMOJIS='\
-innocent-face:ʘ‿ʘ
-reddit-disapproval-face:ಠ_ಠ
-table-flip:(╯°□°）╯︵ ┻━┻
-put-the-table-back:┬─┬﻿ ノ( ゜-゜ノ)
-tidy-up:┬─┬⃰͡ (ᵔᵕᵔ͜ )
-double-Flip:┻━┻ ︵ヽ(`Д´)ﾉ︵﻿ ┻━┻
-fisticuffs:ლ(｀ー´ლ)
-cute-bear:ʕ•ᴥ•ʔ
-squinting-bear:ʕᵔᴥᵔʔ
-GTFO-Bear:ʕ •`ᴥ•´ʔ
-cute-face-with-big-eyes:(｡◕‿◕｡)
-surprised:（　ﾟДﾟ）
-shrug-face:¯\_(ツ)_/¯
-meh:¯\(°_o)/¯
-feel-perky:(`･ω･´)
-angry-face:(╬ ಠ益ಠ)
-at-what-cost:ლ(ಠ益ಠლ)
-excited:☜(⌒▽⌒)☞
-running:ε=ε=ε=┌(;*´Д`)ﾉ
-happy-face:ヽ(´▽`)/
-basking-in-glory:ヽ(´ー｀)ノ
-kitty-emote:ᵒᴥᵒ#
-fido:V•ᴥ•V
-meow:ฅ^•ﻌ•^ฅ
-cheers:（ ^_^）o自自o（^_^ ）
-devious-smile:ಠ‿ಠ
 4chan-emoticon:( ͡° ͜ʖ ͡°)
-crying-face:ಥ_ಥ
-breakdown:ಥ﹏ಥ
-disagree:٩◔̯◔۶
-flexing:ᕙ(⇀‸↼‶)ᕗ
-do-you-even-lift-bro?: ᕦ(ò_óˇ)ᕤ
-kirby:⊂(◉‿◉)つ
-tripping-out:q(❂‿❂)p
-discombobulated:⊙﹏⊙
-sad-and-confused:¯\_(⊙︿⊙)_/¯
-japanese-lion-face:°‿‿°
-confused:¿ⓧ_ⓧﮌ
-confused-scratch:(⊙.☉)7
-worried:(´･_･`)
-dear-god-why:щ（ﾟДﾟщ）
-staring:٩(๏_๏)۶
-pretty-eyes:ఠ_ఠ
-strut:ᕕ( ᐛ )ᕗ
-zoned:(⊙_◎)
-crazy:ミ●﹏☉ミ
-trolling:༼∵༽ ༼⍨༽ ༼⍢༽ ༼⍤༽
-angry-troll:ヽ༼ ಠ益ಠ ༽ﾉ
-fuck-it:t(-_-t)
-sad-face:(ಥ⌣ಥ)
-hugger:(づ￣ ³￣)づ
-stranger-danger:(づ｡◕‿‿◕｡)づ
-flip-friend:(ノಠ ∩ಠ)ノ彡( \o°o)\
-cry-face:｡ﾟ( ﾟஇ‸இﾟ)ﾟ｡
-cry-troll:༼ ༎ຶ ෴ ༎ຶ༽
-tgif:“ヽ(´▽｀)ノ”
-dancing:┌(ㆆ㉨ㆆ)ʃ
-sleepy:눈_눈
 angry-birds:( ఠൠఠ )ﾉ
-no-support:乁( ◔ ౪◔)「      ┑(￣Д ￣)┍
-shy:(๑•́ ₃ •̀๑)
-fly-away:⁽⁽ଘ( ˊᵕˋ )ଓ⁾⁾
-careless:◔_◔
-love:♥‿♥
-touchy-feely:ԅ(≖‿≖ԅ)
-kissing:( ˘ ³˘)♥
-shark-face:( ˇ෴ˇ )
-emo-dance:ヾ(-_- )ゞ
-dance:♪♪ ヽ(ˇ∀ˇ )ゞ
-opera:ヾ(´〇`)ﾉ♪♪♪
-winnie-the-pooh:ʕ •́؈•̀)
-boxing:ლ(•́•́ლ)
-fight:(ง'̀-'́)ง
-listening-to-headphones:◖ᵔᴥᵔ◗ ♪ ♫
-robot:{•̃_•̃}
-seal:(ᵔᴥᵔ)
-questionable:(Ծ‸ Ծ)
-winning:(•̀ᴗ•́)و ̑̑
-zombie:[¬º-°]¬
-pointing:(☞ﾟヮﾟ)☞
-whistling:(っ•́｡•́)♪♬
-injured:(҂◡_◡)
-creeper:ƪ(ړײ)‎ƪ​​
-eye-roll:⥀.⥀
-flying:ح˚௰˚づ
-things-that-cant-be-unseen:♨_♨
-looking-down:(._.)
-im-a-hugger:(⊃｡•́‿•̀｡)⊃
-wizard:(∩｀-´)⊃━☆ﾟ.*･｡ﾟ
-yum:(っ˘ڡ˘ς)
-judging:( ఠ ͟ʖ ఠ)
-tired:( ͡ಠ ʖ̯ ͡ಠ)
-dislike:( ಠ ʖ̯ ಠ)
-hitchhiking:(งツ)ว
-satisfied:(◠﹏◠)
-sad-and-crying:(ᵟຶ︵ ᵟຶ)
-stunna-shades:(っ▀¯▀)つ
-chicken:ʚ(•｀
+angry-face:(╬ ಠ益ಠ)
+angry-troll:ヽ༼ ಠ益ಠ ༽ﾉ
+at-what-cost:ლ(ಠ益ಠლ)
 barf:(´ж｀ς)
-fuck-off:(° ͜ʖ͡°)╭∩╮
-smiley-toast:ʕʘ̅͜ʘ̅ʔ
-exorcism:ح(•̀ж•́)ง †
-love:-`ღ´-
-taking-a-dump:(⩾﹏⩽)
+basking-in-glory:ヽ(´ー｀)ノ
+boxing:ლ(•́•́ლ)
+breakdown:ಥ﹏ಥ
+careless:◔_◔
+cheers:（ ^_^）o自自o（^_^ ）
+chicken:ʚ(•｀
+confused-scratch:(⊙.☉)7
+confused:¿ⓧ_ⓧﮌ
+crazy:ミ●﹏☉ミ
+creeper:ƪ(ړײ)‎ƪ​​
+cry-face:｡ﾟ( ﾟஇ‸இﾟ)ﾟ｡
+crying-face:ಥ_ಥ
+cry-troll:༼ ༎ຶ ෴ ༎ຶ༽
+cute-bear:ʕ•ᴥ•ʔ
+cute-face-with-big-eyes:(｡◕‿◕｡)
 dab:ヽ( •_)ᕗ
-wave-dance:~(^-^)~
+dance:♪♪ ヽ(ˇ∀ˇ )ゞ
+dancing:┌(ㆆ㉨ㆆ)ʃ
+dear-god-why:щ（ﾟДﾟщ）
+devious-smile:ಠ‿ಠ
+disagree:٩◔̯◔۶
+discombobulated:⊙﹏⊙
+dislike:( ಠ ʖ̯ ಠ)
+double-Flip:┻━┻ ︵ヽ(`Д´)ﾉ︵﻿ ┻━┻
+do-you-even-lift-bro?: ᕦ(ò_óˇ)ᕤ
+emo-dance:ヾ(-_- )ゞ
+excited:☜(⌒▽⌒)☞
+exorcism:ح(•̀ж•́)ง †
+eye-roll:⥀.⥀
+feel-perky:(`･ω･´)
+fido:V•ᴥ•V
+fight:(ง̀-́)ง
+fisticuffs:ლ(｀ー´ლ)
+flexing:ᕙ(⇀‸↼‶)ᕗ
+flip-friend:(ノಠ ∩ಠ)ノ彡( \o°o)\
+fly-away:⁽⁽ଘ( ˊᵕˋ )ଓ⁾⁾
+flying:ح˚௰˚づ
+fuck-it:t(-_-t)
+fuck-off:(° ͜ʖ͡°)╭∩╮
+GTFO-Bear:ʕ •`ᴥ•´ʔ
+happy-face:ヽ(´▽`)/
 happy-hug:\(ᵔᵕᵔ)/
-resting-my-eyes:ᴖ̮ ̮ᴖ
+hitchhiking:(งツ)ว
+hugger:(づ￣ ³￣)づ
+im-a-hugger:(⊃｡•́‿•̀｡)⊃
+injured:(҂◡_◡)
+innocent-face:ʘ‿ʘ
+japanese-lion-face:°‿‿°
+judgemental:{ಠʖಠ}
+judging:( ఠ ͟ʖ ఠ)
+kirby:⊂(◉‿◉)つ
+kissing:( ˘ ³˘)♥
+kitty-emote:ᵒᴥᵒ#
+listening-to-headphones:◖ᵔᴥᵔ◗ ♪ ♫
+looking-down:(._.)
+love:♥‿♥
+love:-`ღ´-
+meh:¯\(°_o)/¯
+meow:ฅ^•ﻌ•^ฅ
+no-support:乁( ◔ ౪◔)「      ┑(￣Д ￣)┍
+opera:ヾ(´〇`)ﾉ♪♪♪
 peepers:ಠಠ
-judgemental:{ಠʖಠ}'
+pointing:(☞ﾟヮﾟ)☞
+pretty-eyes:ఠ_ఠ
+put-the-table-back:┬─┬﻿ ノ( ゜-゜ノ)
+questionable:(Ծ‸ Ծ)
+reddit-disapproval-face:ಠ_ಠ
+resting-my-eyes:ᴖ̮ ̮ᴖ
+robot:{•̃_•̃}
+running:ε=ε=ε=┌(;*´Д`)ﾉ
+sad-and-confused:¯\_(⊙︿⊙)_/¯
+sad-and-crying:(ᵟຶ︵ ᵟຶ)
+sad-face:(ಥ⌣ಥ)
+satisfied:(◠﹏◠)
+seal:(ᵔᴥᵔ)
+shark-face:( ˇ෴ˇ )
+shrug-face:¯\_(ツ)_/¯
+shy:(๑•́ ₃ •̀๑)
+sleepy:눈_눈
+smiley-toast:ʕʘ̅͜ʘ̅ʔ
+squinting-bear:ʕᵔᴥᵔʔ
+staring:٩(๏_๏)۶
+stranger-danger:(づ｡◕‿‿◕｡)づ
+strut:ᕕ( ᐛ )ᕗ
+stunna-shades:(っ▀¯▀)つ
+surprised:（　ﾟДﾟ）
+table-flip:(╯°□°）╯︵ ┻━┻
+taking-a-dump:(⩾﹏⩽)
+tgif:“ヽ(´▽｀)ノ”
+things-that-cant-be-unseen:♨_♨
+tidy-up:┬─┬⃰͡ (ᵔᵕᵔ͜ )
+tired:( ͡ಠ ʖ̯ ͡ಠ)
+touchy-feely:ԅ(≖‿≖ԅ)
+tripping-out:q(❂‿❂)p
+trolling:༼∵༽ ༼⍨༽ ༼⍢༽ ༼⍤༽
+wave-dance:~(^-^)~
+whistling:(っ•́｡•́)♪♬
+winnie-the-pooh:ʕ •́؈•̀)
+winning:(•̀ᴗ•́)و ̑̑
+wizard:(∩｀-´)⊃━☆ﾟ.*･｡ﾟ
+worried:(´･_･`)
+yum:(っ˘ڡ˘ς)
+zombie:[¬º-°]¬
+zoned:(⊙_◎)'
 
 if [[ $# -eq 0 ]]; then
   echo "$EMOJIS"
